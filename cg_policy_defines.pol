@@ -1,0 +1,7 @@
+changequote(<, >)
+define(RUSHES_CG_RIB_FILES, <(REGEX( PATH_NAME, '^/mnt/gpfs/projects/[a-z0-9]/[a-zA-Z0-9_-]+/[a-zA-Z0-9_-]+/cg/shots/[a-zA-Z0-9_/]+/renderman/[a-zA-Z0-9_-]+/rib/[/a-zA-Z0-9_-]+\.(rib|rlf)$'))>)dnl
+changequote
+dnl
+/*
+LOADED RUSHES CG POLICY DEFINES : cg_policy_defines.pol
+*/dnl
